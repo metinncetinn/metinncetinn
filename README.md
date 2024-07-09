@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👩‍💻  About Me <br><br>I am a computer engineering student in Turkey<br><br>- 📚 I'm currently learning React Native<br>- 🚲️ I ride a bike in my spare time</p>
+<p align="left">👩‍💻  About Me <br><br>I am a senior student majoring in Computer Engineering at Necmettin Erbakan University. I am responsible, eager to learn, adept at teamwork, and possess strong analytical thinking skills. I enjoy discovering new technologies and have a keen interest in automation, user interfaces, and backend. To develop myself in these areas, I am actively working on various projects. <br><br> 🚲️ I ride a bike in my spare time</p>
 
 ###
 
