@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">👩‍💻  About Me <br><br>I am a senior student majoring in Computer Engineering at Necmettin Erbakan University. I am responsible, eager to learn, adept at teamwork, and possess strong analytical thinking skills. I enjoy discovering new technologies and have a keen interest in WinForm applications, user interfaces, and backend. To develop myself in these areas, I am actively working on various projects. <br><br> 🚲️ I ride a bike in my spare time</p>
+<p align="left">👩‍💻  About Me <br><br>I am a graduate of Necmettin Erbakan University, Department of Computer Engineering. I am responsible, eager to learn and a team player. I enjoy exploring new technologies and have a strong interest in user interfaces and backend development. I am actively working on various projects to improve my skills in these areas.  With my predisposition to teamwork and sense of responsibility, I am ready to add value to projects.
+
+Feel free to reach out to me at metinncetinn96@gmail.com.<br><br> In my spare time, I ride a bike 🚲️ and I love traveling and exploring new places 🌍. </p>
 
 ###
 
