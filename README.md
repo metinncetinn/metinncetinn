@@ -1,52 +1,31 @@
-<h1 align="center">This is Metin</h1>
-
-###
-
-<p align="left">👩‍💻  About Me <br><br>I am a graduate of Necmettin Erbakan University, Department of Computer Engineering. I am responsible, eager to learn and a team player. I enjoy exploring new technologies. I have a strong interest in user interfaces and backend development. I am actively working on various projects to improve my skills in these areas.  With my predisposition to teamwork and sense of responsibility, I am ready to add value to projects.
-
-Feel free to reach out to me at metinncetinn96@gmail.com.<br><br> In my spare time, I ride a bike 🚲️ and I love traveling and exploring new places 🌍. </p>
-
-###
-
 <div align="center">
-  <a href="mailto:metinncetinn96@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Outlook logo" />
-  </a>
+
+<!-- Dinamik Header (Koyu ve Açık Tema Uyumlu) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Hi,%20I'm%20Metin%20Çetin%20👋&fontSize=40&animation=fadeIn&fontAlignY=40">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Hi,%20I'm%20Metin%20Çetin%20👋&fontSize=40&animation=fadeIn&fontAlignY=40">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Hi,%20I'm%20Metin%20Çetin%20👋&fontSize=40&animation=fadeIn&fontAlignY=40" width="100%" />
+</picture>
+
+<!-- Hareketli Daktilo Metni -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FACFE&width=550&lines=Software+Developer+%7C+C%23+%26+.NET+Ecosystem;Backend+Architecture+%26+SQL+Optimization;Cyclist+%26+Tech+Explorer+🚴">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0052D4&width=550&lines=Software+Developer+%7C+C%23+%26+.NET+Ecosystem;Backend+Architecture+%26+SQL+Optimization;Cyclist+%26+Tech+Explorer+🚴">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FACFE&width=550&lines=Software+Developer+%7C+C%23+%26+.NET+Ecosystem;Backend+Architecture+%26+SQL+Optimization;Cyclist+%26+Tech+Explorer+🚴" alt="Typing SVG" />
+</picture>
+
+<br/><br/>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metinncetinn96@gmail.com)
+
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+### 🛠️ System Status & About Me
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img width="12" />
-  <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png" height="40" alt=".Net logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="Microsoft SQL Server logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo" />
-</div>
-
-###
-<h3 align="left">💻 Languages Graph:</h3>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=metinncetinn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+```sys
+> system.info --user metinncetinn
+[+] Focus      : High-Performance Backend Systems, C# / .NET & Database Optimization
+[+] Passions   : Cycling Long Routes, Linux Distros, Hardware & Media Workflows
+[+] Status     : Developing scalable applications & tuning system performance
