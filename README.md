@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-![Header Dark](https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Hi,%20I'm%20Metin%20Çetin%20👋&fontSize=40&animation=fadeIn&fontAlignY=40#gh-dark-mode-only)
+![Header Dark](https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Hi,%20I'm%20Metin%20Çetin&fontSize=40&animation=fadeIn&fontAlignY=40#gh-dark-mode-only)
 
 <!-- Daktilo Metni -->
 ![Typing Light](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0052D4&width=550&lines=Software+Developer+%7C+C%23+%26+.NET+Ecosystem;Backend+Architecture+%26+SQL+Optimization;Cyclist+%26+Tech+Explorer+🚴#gh-light-mode-only)
