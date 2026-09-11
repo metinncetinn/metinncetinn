@@ -12,9 +12,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metinncetinn&theme=tokyonight&hide_border=true&background=0D1117&fire=00F2FE&ring=4FACFE&currStreakLabel=00F2FE" width="80%" />
-</div>
 ---
 
 ### 🛠️ System Status & About Me
