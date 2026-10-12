@@ -40,8 +40,8 @@ jobs:
           template: classic
           base: ""
           config_timezone: Europe/Istanbul
-          plugin_isometric: yes
-          plugin_isometric_duration: full-year
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
       # 3) En çok kullanılan diller
       - name: Languages
@@ -58,16 +58,15 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
 
-      # 4) Achievements
-      - name: Achievements
+      # 4) Öne çıkan repolar (profildeki pinli repolar)
+      - name: Repositories
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: metinncetinn
-          filename: metrics.achievements.svg
+          filename: metrics.repositories.svg
           template: classic
           base: ""
           config_timezone: Europe/Istanbul
-          plugin_achievements: yes
-          plugin_achievements_threshold: X
-          plugin_achievements_display: detailed
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
