@@ -57,9 +57,6 @@
 <!-- En çok kullanılan diller -->
 ![Languages](./metrics.languages.svg)
 
-<!-- Achievements -->
-![Achievements](./metrics.achievements.svg)
-
 </div>
 
 <!-- Footer Banner -->
