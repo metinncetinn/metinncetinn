@@ -57,6 +57,9 @@
 <!-- En çok kullanılan diller -->
 ![Languages](./metrics.languages.svg)
 
+<!-- Öne çıkan repolar -->
+![Repositories](./metrics.repositories.svg)
+
 </div>
 
 <!-- Footer Banner -->
